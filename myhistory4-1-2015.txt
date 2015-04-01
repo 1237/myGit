@@ -1,0 +1,224 @@
+    1  git config --global user.name "Aseel Basheer"
+    2  git config --global user.email asbasheer@my.okcu.edu
+    3  mkdir myFirst
+    4  ls
+    5  cd myFirst
+    6  ls
+    7  $pwd
+    8  emacs hello.c
+    9  emacs
+   10  emacs
+   11  vim hello.c
+   12  ls
+   13  clear
+   14  git init
+   15  ls
+   16  git status
+   17  git add
+   18  git add .
+   19  git status
+   20  git commit
+   21  git status
+   22  vim hello.c
+   23  git status
+   24  git add .
+   25  git commit
+   26  clear
+   27  git status
+   28  git remote add origin https://github.com/AsselB/myGit.git
+   29  git push origin master
+   30  git remote add origin https://github.com/AseelB/myGit.git
+   31  git remote add origins https://github.com/AseelB/myGit.git
+   32  git push origins master
+   33  git push origins master
+   34  history>myHistory11-3-2015
+   35  myHistory11-3-2015
+   36  clear
+   37  git push origins master
+   38  git status
+   39  git add .
+   40  git status
+   41  git push origins master
+   42  git remote add origins https://github.com/1237/myGit.git
+   43  git remote add myOrigin https://github.com/1237/myGit.git
+   44  git push myOrigin master
+   45  git pull myOrigin master
+   46  history>myHistory11-3-2015.txt
+   47  myHistory11-3-2015.txt
+   48  less myHistory11-3-2015.txt
+   49  git add.
+   50  git add .
+   51  git status
+   52  git commit
+   53  git status
+   54  git push myOrigin master
+   55  history > myHistory3-11-2015
+   56  history > myHistory3-11-2015.txt
+   57  less myHistory3-11-2015.txt
+   58  exit
+   59  script
+   60  vim sum.c
+   61  git init
+   62  mkdir mySecond
+   63  mv sum.c mySecond
+   64  cd mySecond
+   65  git init
+   66  git add.
+   67  git add .
+   68  git status
+   69  vim factorial.c
+   70  vim sum.c
+   71  vim factCalculation.c
+   72  vim factorial.c
+   73  gcc -c factCalculation.c -o factCalculation
+   74  git init
+   75  git add .
+   76  git status
+   77  git commit
+   78  git status
+   79  git remote add origin https://github.com/AseelB/myGit.git
+   80  git push origin master
+   81  git push origin master
+   82  git status
+   83  git push origin master
+   84  git push origin master
+   85  git remote add factorial.c
+   86  git push origin master
+   87  git status
+   88  git remote add neworigin https://github.com/AseelB/myGit.git
+   89  git push neworigin master
+   90  git push --help
+   91  git pull hello.c
+   92  git pull neworigin
+   93  git push neworigin master
+   94  git status
+   95  git pull origins https://github.com/AseelB/myGit.git
+   96  git pull origin https://github.com/AseelB/myGit.git
+   97  git pull origin master https://github.com/3388/myFirst
+   98  git pull origin master https://github.com/3388/myFirst.git
+   99  git remote add origin master https://github.com/3388/myFirst.git
+  100  git pull origin master
+  101  git remote add newOrigin master https://github.com/3388/myFirst.git
+  102  git pull origin master
+  103  git pull origins master
+  104  git remote add newOrigin master https://github.com/3388/myFirst.git
+  105  git pull newOrigin master
+  106  git pul https://github.com/3388/myFirst.git
+  107  git pull https://github.com/3388/myFirst.git
+  108  git status
+  109  ls
+  110  git push origin master
+  111  clear
+  112  git push https://github.com/1237/myGit
+  113  git config --global user.name"AseelB"
+  114  git config --global user.email asbasheer@my.okcu.edu
+  115  git init
+  116  git add .
+  117  git status
+  118  git commit
+  119  pwd
+  120  ls
+  121  git remote add newOrigin master https://github.com/3388/my.git
+  122  git remote add newOrigin master https://github.com/1237/myGit.git
+  123  git remote add newOrigin https://github.com/1237/myGit.git
+  124  git push newOrigin master
+  125  ls
+  126  ls
+  127  history>myHistory3-25-2015.txt
+  128  git status
+  129  git commit
+  130  git add .
+  131  git add.
+  132  git add .
+  133  git status
+  134  git commit
+  135  git status
+  136  git add/rm 
+  137  git remote add newOrigin https://github.com/1237/myGit.g
+  138  git push newOrigin master
+  139  git pull https://github.com/AseelB/myGit.git
+  140  git status
+  141  git checkout -- <sum.c>
+  142  git checkout --help
+  143  git checkout -- sum.c
+  144  git status
+  145  git checkout -- factorial.c
+  146  git status
+  147  git push newOrigin master
+  148  ls
+  149  git pull https://github.com/AseelB/myGit.git
+  150  newOrigin
+  151  history>myHistory3-25-2015.txt
+  152  git commit
+  153  git commit
+  154  git add .
+  155  git commit
+  156  git status
+  157  git push newOrigin master
+  158  git pull https://github.com/syh0829/myFirst.git
+  159  ls -al
+  160  clear
+  161  ls
+  162  git pull https://github.com/syh0829/myFirst
+  163  git status
+  164  git commit
+  165  git status
+  166  git pull https://github.com/syh0829/myFirst
+  167  ls
+  168  git push origins master
+  169  git push newOrigin master
+  170  exit
+  171  git config --list
+  172  cd mySecond
+  173  git config --list
+  174  cd ..
+  175  cd myfirst
+  176  git config --list
+  177  cd ..
+  178  cd mySecond
+  179  dir README.rdoc
+  180  git status
+  181  git add .
+  182  git commit -m "update 4-1-2015"
+  183  git remote add origin https://github.com/1237/myGit.git
+  184  git push -u origin master
+  185  exit
+  186  typescript
+  187  TypeScript
+  188  script
+  189  exit
+  190  pwd
+  191  cd x:/project
+  192  git status
+  193  git add .
+  194  git status
+  195  git commit
+  196  git status
+  197  git push origin master
+  198  git remote add origin https://github.com/1237/myGit.git
+  199  git push origin master
+  200  git push origin master
+  201  pull https://github.com/syh0829/fileSender.git
+  202  git pull https://github.com/syh0829/fileSender.git
+  203  git pull https://github.com/3388/teamProject.git
+  204  git remote add origin https://github.com/1237/myGit.git
+  205  git push origin master
+  206  git push -u origin master
+  207  pull https://github.com/syh0829/fileSender.git
+  208  git pull https://github.com/syh0829/fileSender.git
+  209  git pull https://github.com/3388/teamProject.git
+  210  git status
+  211  git add .
+  212  git commit
+  213  git status
+  214  git checkout Aseel.txt
+  215  git status
+  216  git checkout --Aseel.txt
+  217  git checkout -- <Aseel.txt>
+  218  git checkout --<Aseel.txt>
+  219  git status
+  220  git pull https://github.com/3388/teamProject.git
+  221  git pull https://github.com/syh0829/fileSender.git
+  222  ls
+  223  ls -al
+  224  history>myhistory4-1-2015.txt
